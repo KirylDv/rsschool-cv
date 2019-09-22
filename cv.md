@@ -16,7 +16,8 @@
 
 ## Experience
 	* Take part in BOI
-	* Have account at [Codeforces](https://codeforces.com/profile/DartDoggy)
+	* Have account at Codeforces
+[link](https://codeforces.com/profile/DartDoggy)
 
 ## Education 
 	* University: Belarusian State University of Informatics and Radioelectronics
