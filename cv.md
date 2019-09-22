@@ -16,14 +16,14 @@
 
 ## Experience
 	* Take part in BOI
-	* Have [account](https://codeforces.com/profile/DartDoggy) at Codeforces
+	* Have account at [Codeforces](https://codeforces.com/profile/DartDoggy)
 
 ## Education 
 	* University: Belarusian State University of Informatics and Radioelectronics
 	* Online education: MIT OpenCourseWare
 
 ## English skills
- Upper-Intermediate B2
- 
+#### Upper-Intermediate B2
+
 	* Summary stayed abroad for 7 month.
 	* Learning English for 12 years.
