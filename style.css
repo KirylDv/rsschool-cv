@@ -1,0 +1,29 @@
+img {
+	float: center;
+}
+
+body {
+	background-color: grey;
+}
+
+header {
+	background-color: yellow;
+}
+
+footer {
+	background-color: green;
+}
+
+.wrapper {
+    width:960px;
+    margin:0 auto;
+    text-align:left;
+}
+
+.for-head {
+	float: right;
+	color: black;
+	font-size: 40px;
+	font-weight: 700;
+}
+
