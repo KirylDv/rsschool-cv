@@ -24,5 +24,6 @@
 
 ## English skills
  Upper-Intermediate B2
+ 
 	* Summary stayed abroad for 7 month.
 	* Learning English for 12 years.
