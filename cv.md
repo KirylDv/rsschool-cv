@@ -1,4 +1,4 @@
-# Kiryl Dvorakouski - Junior Frontend Developer
+# Kiryl Dvorakouski - Junior Developer
 
 ## Contacts
 	* Phone number: +375299799644 (Velcom)
@@ -22,6 +22,7 @@
 ## Education 
 	* University: Belarusian State University of Informatics and Radioelectronics
 	* Online education: MIT OpenCourseWare
+	* EPAM Python courses
 
 ## English skills
 #### Upper-Intermediate B2
